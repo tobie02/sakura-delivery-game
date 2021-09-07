@@ -52,9 +52,7 @@ public class Juego extends InterfaceJuego {
 
 	/**
 	 * Durante el juego, el método tick() será ejecutado en cada instante y 
-	 * por lo tanto es el método más importante de esta clase. Aquí se debe 
-	 * actualizar el estado interno del juego para simular el paso del tiempo 
-	 * (ver el enunciado del TP para mayor detalle).
+	 * por lo tanto es el método más importante de esta clase.
 	 */
 	public void tick() {
 		// Procesamiento de un instante de tiempo
